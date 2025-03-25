@@ -4,6 +4,17 @@ youtube_id: nNI16pE5lR0
 date: 2023-06-09
 tags: [Learn New Thing,First Introduction]
 ---
+
+<div class="embed-container">
+  <iframe
+      src="https://www.youtube.com/embed/nNI16pE5lR0"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="true">
+  </iframe>
+</div>
+
 💕 **--Preview on Vicky's Learning-New-Things-Together Show--**
 <br />
 📺 This is the first episode of this Series~~

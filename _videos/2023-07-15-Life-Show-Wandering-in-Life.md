@@ -4,6 +4,18 @@ youtube_id: 9gGg6xdTyaE
 date: 2023-07-15
 tags: [Life Show,Documentary,Travel]
 ---
+
+<div class="embed-container">
+  <iframe
+      src="https://www.youtube.com/embed/9gGg6xdTyaE"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="true">
+  </iframe>
+</div>
+
+
 💕 **--Preview on Vicky's drama opera--**
 <br />
 🌞 we start to talk about life~~

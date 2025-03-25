@@ -4,6 +4,18 @@ youtube_id: slm3DpCvTHA
 date: 2023-06-01
 tags: [Life Principle,Talk Deeper]
 ---
+
+<div class="embed-container">
+  <iframe
+      src="https://www.youtube.com/embed/slm3DpCvTHA"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="true">
+  </iframe>
+</div>
+
+
 💕 **--Preview on Vicky's drama opera--**
 <br />
 🧠 Let's talk about Deeper Psychological Comments

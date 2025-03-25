@@ -4,6 +4,17 @@ youtube_id: PdCz7YJNq-A
 date: 2023-01-01
 tags: [Candles, Tips]
 ---
+
+<div class="embed-container">
+  <iframe
+      src="https://www.youtube.com/embed/PdCz7YJNq-A"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="true">
+  </iframe>
+</div>
+
 💕 **--Preview on Vicky's drama opera--**
 <br />
 📹 First Episode of Vicky's Drama Opera
