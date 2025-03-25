@@ -5,6 +5,8 @@ date: 2023-01-01
 tags: [Candles, Tips]
 ---
 
+[![Life Show Fish Eye Camera Vacation Life](assets/img/Life-Show-Fish-Evey-Camera-Vacation-Life.jpg)](https://www.youtube.com/watch?v=PdCz7YJNq-A)
+
 
 <iframe width="560" height="315"
     src="https://www.youtube.com/embed/PdCz7YJNq-A"
